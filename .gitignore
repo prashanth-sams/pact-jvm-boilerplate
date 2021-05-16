@@ -1,4 +1,11 @@
-.DS_Store
+# Intellij
 .idea/
-/consumer/target/
-/provider/target/
+*.iml
+*.iws
+
+# Maven
+target/
+dependency-reduced-pom.xml
+.DS_Store
+**/.DS_Store
+**/*/.DS_Store
